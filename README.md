@@ -1,4 +1,5 @@
 ### Hi there 👋
+<a><img src="https://img.shields.io/badge/C-A8B9CC?style=social&logo=appveyor&logoColor=000000"/></a>
 
 <!--
 **GyuminGomin/GyuminGomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
