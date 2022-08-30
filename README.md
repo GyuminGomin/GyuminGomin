@@ -14,6 +14,7 @@
 <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=000000"/>
 
+<h4 align = 'left'> I want to become Autonomous Driving SW engineer. </h4>
 <!--
 **GyuminGomin/GyuminGomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
