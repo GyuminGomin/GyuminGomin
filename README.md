@@ -10,6 +10,9 @@
 <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=OpenJDK&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
+<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=000000"/>
+<img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=000000"/>
+<img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=000000"/>
 
 <!--
 **GyuminGomin/GyuminGomin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
