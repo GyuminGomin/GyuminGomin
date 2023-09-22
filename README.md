@@ -18,12 +18,17 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=000000"/>
 <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=000000"/>
 
-<h4 align = 'center'> GitHub Stats </h5>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuminGomin&layout=compact" align = 'center' />  
+<h3 align = 'center'> GitHub Stats </h3>
+<p align = "center"> My Github Stats sorted by image </p>
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuminGomin&layout=compact" width="400" height="300" />
+</p>
+ 
+<p align = "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&bg_color=000000000&theme=transparent" />
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&bg_color=000000000&theme=transparent" align = 'center' />
-
-<h5 align = 'left'> I want to become DevOps Engineer. </h5>
+<h4 align = 'left'> I want to become DevOps Engineer. </h4>
 
 <!--
 ![GyuminGomin's GitHub stats](https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&bg_color=000000000&theme=transparent)
