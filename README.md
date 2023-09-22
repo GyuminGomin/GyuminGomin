@@ -1,6 +1,6 @@
 ### Hi there 👋
   
-<h3 align ="center"> TECH STACK  </h3>
+<h3 align ="center"> 🛠TECH STACK  </h3>
 
 <p align = "center"> Techs that I've used at least once </p>
 
@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=000000"/>
 <img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=000000"/>
 
-<h3 align = 'center'> GitHub Stats </h3>
-<p align = "center"> My Github Stats sorted by image </p>
+<h3 align = 'center'> 🎲GitHub Stats </h3>
+<p align = "center"> My Github Stats sorted with image </p>
 <p align = "center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuminGomin&layout=compact" width="400" height="300" />
 </p>
