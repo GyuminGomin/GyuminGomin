@@ -36,4 +36,5 @@ https://simpleicons.org/ -> 아이콘 변경
 https://github.com/anuraghazra/github-readme-stats/ -> 깃허브 스탯 아이콘
 https://shields.io/badges -> 뱃지 변경
 https://github.com/kyechan99/capsule-render#rotate -> 깃허브 헤더 변경
+https://blog.cowkite.com/blog/2102241544/ -> 깃허브 교재
 -->
