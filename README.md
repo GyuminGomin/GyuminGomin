@@ -1,5 +1,6 @@
-### Hi there 👋
-  
+![header](https://capsule-render.vercel.app/api?text=Hi_there!👋&fontSize=15&rotate=-40)
+
+
 <h3 align ="center"> 🛠TECH STACK  </h3>
 
 <p align = "center"> Techs that I've used at least once </p>
@@ -34,4 +35,5 @@
 https://simpleicons.org/ -> 아이콘 변경
 https://github.com/anuraghazra/github-readme-stats/ -> 깃허브 스탯 아이콘
 https://shields.io/badges -> 뱃지 변경
+https://github.com/kyechan99/capsule-render#rotate -> 깃허브 헤더 변경
 -->
