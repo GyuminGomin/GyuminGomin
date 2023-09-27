@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=Hi_there!👋&fontSize=15&rotate=-40&section=header&color=auto)
+![header](https://capsule-render.vercel.app/api?text=Hi_there!👋&fontSize=15&rotate=-40&section=header&color=)
 
 
 <h3 align ="center"> 🛠TECH STACK  </h3>
@@ -22,11 +22,11 @@
 <h3 align = 'center'> 🎲GitHub Stats </h3>
 <p align = "center"> My Github Stats sorted with image </p>
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuminGomin&layout=compact" width="400" height="300" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuminGomin&layout=compact&bg_color=eee8aa" width="400" height="300" />
 </p>
  
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&bg_color=000000000&theme=transparent" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&bg_color=87ceeb&theme=transparent" />
 </p>
 
 <h4 align = 'left'> I want to become DevOps Engineer. </h4>
