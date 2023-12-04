@@ -31,10 +31,7 @@
 
 <h4 align = 'left'> I want to become DevOps Engineer. </h4>
 
-<div style="background-color:skyblue; width:300px; height:300px; display:flex; align-items:center;
-  justify-content:center; border:3px solid pink;">
-    <a href="https://blog.naver.com/ool9898" target="_blank">My Naver Blog Page</a>
-</div>
+<a href="https://blog.naver.com/ool9898" target="_blank">My Naver Blog Page</a>
 
 <!--
 https://simpleicons.org/ -> 아이콘 변경
