@@ -31,7 +31,7 @@
 
 <h4 align = 'left'> I want to become DevOps Engineer. </h4>
 
-<div style="color:skyblue; width:30px; height:50px;">
+<div style="background-color:skyblue; width:30px; height:50px;">
     <a href="https://blog.naver.com/ool9898">My Naver Blog Page</a>
 </div>
 
