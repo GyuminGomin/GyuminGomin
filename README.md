@@ -31,6 +31,10 @@
 
 <h4 align = 'left'> I want to become DevOps Engineer. </h4>
 
+<div style="color:skyblue; width:30px; height:50px;">
+    <a href="https://blog.naver.com/ool9898">My Naver Blog Page</a>
+</div>
+
 <!--
 https://simpleicons.org/ -> 아이콘 변경
 https://github.com/anuraghazra/github-readme-stats/ -> 깃허브 스탯 아이콘
