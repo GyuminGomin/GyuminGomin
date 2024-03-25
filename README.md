@@ -31,7 +31,7 @@
 
 <h4 align = 'left'> I want to become DevOps Engineer. </h4>
 
-<a href="https://blog.naver.com/ool9898" target="_blank">My Naver Blog Page</a>
+<a href="https://blog.naver.com/ool9898" target="_blank">My Naver Blog Page</a>  
 <a href="https://gyumingomin.tistory.com" target="_blank">My TISTORY Blog Page</a>
 
 <!--
