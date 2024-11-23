@@ -9,15 +9,13 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Java-FF0000?style=for-the-badge&logo=java&logoColor=000000"/>
-<img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=000000"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=000000"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=000000"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=000000"/>
 <img src="https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=000000"/>
-<img src="https://img.shields.io/badge/LaTex-008080?style=for-the-badge&logo=LaTex&logoColor=000000"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=000000"/>
 <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=CentOS&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=000000"/>
-<img src="https://img.shields.io/badge/RedHat-EE0000?style=for-the-badge&logo=RedHat&logoColor=000000"/>
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=000000"/>
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=000000"/>
 <img src="https://img.shields.io/badge/UIPATH-FA4616?style=for-the-badge&logo=UIPATH&logoColor=000000"/>
