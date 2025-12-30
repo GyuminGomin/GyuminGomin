@@ -23,7 +23,7 @@
 <h3 align = 'center'> 🎲GitHub Stats </h3>
 <p align = "center"> My Github Stats sorted with image </p>
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GyuminGomin&layout=compact&bg_color=eee8aa" width="400" height="300" />
+    <img src="[GyuGo's github stats](https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&theme=radical)" width="400" height="300" />
 </p>
  
 <p align = "center">
