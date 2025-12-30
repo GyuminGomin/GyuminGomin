@@ -23,11 +23,9 @@
 <h3 align = 'center'> 🎲GitHub Stats </h3>
 <p align = "center"> My Github Stats sorted with image </p>
 <p align = "center">
-    ![GyuGo's github stats](https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&theme=radical)
 </p>
  
 <p align = "center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GyuminGomin&show_icons=true&bg_color=87ceeb&theme=transparent" />
 </p>
 
 <h4 align = 'left'> I want to become DevOps Engineer. </h4>
